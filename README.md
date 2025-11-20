@@ -22,7 +22,7 @@ Understanding public sentiment is crucial to evaluate:
 - **Source:** TikTok comment section  
 - **Period:** May–June 2025  
 - Dataset includes opinions, reactions, and responses to the shipping-policy announcement.  
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -37,14 +37,14 @@ Sentiment distribution (from the PPT):
 - **Negative:** 55%  
 - **Neutral:** 38%  
 - **Positive:** 6%  
-:contentReference[oaicite:1]{index=1}
+
 
 ### **2. Wordlink / Bigram Network Analysis**  
 Extracted frequent word associations to understand narrative patterns in:
 - Positive sentiment  
 - Negative sentiment  
 - Neutral sentiment  
-:contentReference[oaicite:2]{index=2}
+
 
 ### **3. Topic Modeling**  
 Generated topics for:
@@ -53,13 +53,12 @@ Generated topics for:
 - Neutral comments  
 
 Helps identify dominant themes (e.g., cost concerns, courier welfare, offline shopping preferences).  
-:contentReference[oaicite:3]{index=3}
 
 ### **4. Trend Analysis**  
 Tracked comment volume and sentiment over time:
 - Sharp spike on **20–21 May 2025**  
 - Decline after announcement  
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -68,31 +67,31 @@ Tracked comment volume and sentiment over time:
 ### **1. Sentiment Dominance**
 - The public reaction is **mostly negative (55%)**, indicating broad disagreement with the policy.  
 - Positive sentiment is minimal, mostly from offline sellers or logistics workers.  
-:contentReference[oaicite:5]{index=5}
+
 
 ### **2. Main Themes Identified**
 #### **Positive Topics**
 - Cost-saving opportunities  
 - Support for offline stores  
 - Empathy for courier welfare  
-:contentReference[oaicite:6]{index=6}
+
 
 #### **Negative Topics**
 - Increased financial burden on buyers  
 - Decreasing online shopping activity  
 - Concerns about courier income  
 - Criticism towards government policy  
-:contentReference[oaicite:7]{index=7}
+
 
 #### **Neutral Topics**
 - Ordinary discussions about packages/transactions  
 - Comments unrelated to the policy (noise)  
 - General observations about delivery interactions  
-:contentReference[oaicite:8]{index=8}
+
 
 ### **3. Public Engagement**
 Several influencers drive significant negative engagement on TikTok, amplifying criticism.  
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -111,29 +110,4 @@ Based on the findings:
 - Encourage local/traditional markets  
 - Collaborate with e-commerce platforms for balanced solutions  
 - Monitor public reaction continuously  
-:contentReference[oaicite:10]{index=10}
 
----
-
-## 🛠️ Tech Stack  
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- NLTK / spaCy  
-- Gensim (Topic Modeling)  
-- Matplotlib / Seaborn  
-
----
-
-## 📬 Contact  
-Feel free to reach out for discussion or collaboration:
-
-**Ahmad Fauzan**  
-GitHub: https://github.com/afauzan14  
-LinkedIn: <your LinkedIn URL>
-
----
-
-## ⭐ Acknowledgement  
-This analysis is based on sentiment extraction and topic modeling from the presentation provided in this repository.  
